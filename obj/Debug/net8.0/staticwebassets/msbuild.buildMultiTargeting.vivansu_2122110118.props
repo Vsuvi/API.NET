@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\vivansu_2122110118.props" />
+</Project>
