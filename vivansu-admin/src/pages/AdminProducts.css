@@ -1,0 +1,155 @@
+
+.admin-products {
+  padding: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.toggle-form-button {
+  background-color: #28a745;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-bottom: 20px;
+}
+
+.toggle-form-button:hover {
+  background-color: #218838;
+}
+
+.form-card {
+  background-color: #f8f9fa;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+}
+
+.form-card h3 {
+  margin-top: 0;
+}
+
+.form-card form div {
+  margin-bottom: 15px;
+}
+
+.form-card label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.form-card input,
+.form-card textarea {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.form-card textarea {
+  height: 100px;
+}
+
+.form-card .form-actions {
+  display: flex;
+  gap: 10px;
+}
+
+.form-card button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.form-card button[type="submit"] {
+  background-color: #007bff;
+  color: white;
+}
+
+.form-card button[type="submit"]:hover {
+  background-color: #0056b3;
+}
+
+.form-card button[type="button"] {
+  background-color: #6c757d;
+  color: white;
+}
+
+.form-card button[type="button"]:hover {
+  background-color: #5a6268;
+}
+
+.error {
+  color: red;
+  margin-bottom: 10px;
+}
+
+.table-card {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.table-card h3 {
+  margin-top: 0;
+}
+
+.table-card table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.table-card th,
+.table-card td {
+  padding: 10px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+.table-card th {
+  background-color: #f1f1f1;
+}
+
+.edit-button {
+  background-color: #ffc107;
+  color: white;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-right: 5px;
+}
+
+.edit-button:hover {
+  background-color: #e0a800;
+}
+
+.delete-button {
+  background-color: #dc3545;
+  color: white;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.delete-button:hover {
+  background-color: #c82333;
+}
+
+.image-preview {
+  max-width: 200px;
+  max-height: 200px;
+  margin-top: 10px;
+  display: block;
+}
+
+.product-image {
+  max-width: 100px;
+  max-height: 100px;
+}

@@ -1,0 +1,149 @@
+.admin-dashboard {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+  }
+  
+  /* Widget Row */
+  .widget-row {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+  }
+  
+  .widget-card {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .widget-card h4 {
+    margin: 0 0 10px;
+    font-size: 1.1rem;
+    color: #343a40;
+  }
+  
+  .widget-card p {
+    margin: 0 0 10px;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #343a40;
+  }
+  
+  .chart {
+    height: 60px;
+  }
+  
+  /* Content Row */
+  .content-row {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .map-card {
+    flex: 2;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .map-card h4 {
+    margin: 0 0 20px;
+    font-size: 1.1rem;
+    color: #343a40;
+  }
+  
+  .map-placeholder {
+    height: 300px;
+    background-color: #e9ecef;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #6c757d;
+    font-style: italic;
+  }
+  
+  .visitors-card {
+    flex: 1;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .visitors-card h4 {
+    margin: 0 0 20px;
+    font-size: 1.1rem;
+    color: #343a40;
+  }
+  
+  .visitors-card ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .visitors-card li {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 15px;
+  }
+  
+  .visitors-card span {
+    font-size: 0.9rem;
+    color: #343a40;
+  }
+  
+  .progress-bar {
+    flex: 1;
+    height: 8px;
+    background-color: #e9ecef;
+    border-radius: 4px;
+    margin: 0 15px;
+    overflow: hidden;
+  }
+  
+  .progress-bar div {
+    height: 100%;
+    background-color: #007bff;
+  }
+  
+  /* Doughnut Row */
+  .doughnut-row {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+  }
+  
+  .doughnut-card {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .doughnut-card h4 {
+    margin: 0 0 20px;
+    font-size: 1.1rem;
+    color: #343a40;
+  }
+  
+  .doughnut-chart {
+    position: relative;
+    height: 120px;
+  }
+  
+  .doughnut-chart p {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin: 0;
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #343a40;
+  }
