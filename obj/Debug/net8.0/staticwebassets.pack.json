@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\vivansu_2122110118\\wwwroot\\images\\3cbc6c74-d93d-460d-9db6-ecb4d8ef0b95.png",
+      "PackagePath": "staticwebassets\\images\\3cbc6c74-d93d-460d-9db6-ecb4d8ef0b95.png"
+    },
+    {
+      "Id": "D:\\vivansu_2122110118\\wwwroot\\images\\7633f0ab-1dec-4b0a-b4ec-47a118779c06.png",
+      "PackagePath": "staticwebassets\\images\\7633f0ab-1dec-4b0a-b4ec-47a118779c06.png"
+    },
+    {
+      "Id": "D:\\vivansu_2122110118\\wwwroot\\images\\a0642adf-d191-46eb-9904-399f5a13b5a7.png",
+      "PackagePath": "staticwebassets\\images\\a0642adf-d191-46eb-9904-399f5a13b5a7.png"
+    },
+    {
+      "Id": "D:\\vivansu_2122110118\\wwwroot\\images\\dd0f91f7-5d16-4ed0-a751-bfacb965462d.png",
+      "PackagePath": "staticwebassets\\images\\dd0f91f7-5d16-4ed0-a751-bfacb965462d.png"
+    },
+    {
+      "Id": "D:\\vivansu_2122110118\\wwwroot\\images\\e90cc562-a34d-40ca-92a7-aabf99202c1a.png",
+      "PackagePath": "staticwebassets\\images\\e90cc562-a34d-40ca-92a7-aabf99202c1a.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.vivansu_2122110118.props",
+      "PackagePath": "build\\vivansu_2122110118.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.vivansu_2122110118.props",
+      "PackagePath": "buildMultiTargeting\\vivansu_2122110118.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.vivansu_2122110118.props",
+      "PackagePath": "buildTransitive\\vivansu_2122110118.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.vivansu_2122110118.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.vivansu_2122110118.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
